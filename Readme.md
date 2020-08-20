@@ -1,6 +1,7 @@
-#Simple Calculator Using DOM elements
-##Using JavaScript, CSS and HTML
-#Calculator Interface
-(/images/calculator.png)
 
-A Simple Calculator created to explore concepts in JavaScript,in particular interacting with the Document Object Model(DOM), string and array manipulation. 
+# Simple Calculator 
+___
+
+Simple calculator to investigate working with document Object Mdoel (DOM) elements and JavaScript. The Calculator layout was implemented with HTML, CSS is used to add styling to the calculator and JavaScript is incorporated to provide functtionality. 
+
+
